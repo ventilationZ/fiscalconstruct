@@ -1,0 +1,6 @@
+body{background-color: #7ccbd9
+}
+#company{border-collapse: collapse;width: 100%}
+#company tr:nth-child(even) {
+  background-color: #919a9a;
+}, #company th{border: 2px solid #222511

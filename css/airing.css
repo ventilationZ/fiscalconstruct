@@ -1,0 +1,25 @@
+body{background-color: #fcfcfc}
+.origi{display: flex;
+  background-color: #eeeeee;
+  justify-content: center;}
+.origi >div{
+  background-image: url("../img/ggd.jpeg");
+  background-size: cover;
+  width: 200px;
+  height: 180px;
+  margin: 20px;
+
+
+}
+.Title{
+margin-left: 155px;
+}
+.one{
+  margin-top: 200px;
+}
+.two{
+  margin-top: 200px;
+}
+.three{
+  margin-top: 200px;
+}

@@ -1,0 +1,42 @@
+body{background-color: #b1ffb1
+}
+.flexing{background-color: cornsilk;display: flex}
+.flexing > div{
+  margin: 10px;
+  width: 150px;
+  height: 50px;
+  background-color: darkcyan;
+  background-image: url("../img/concept.jpeg");background-size: cover;
+}
+.flexmyme{background-color: #eacd57;
+  display: flex;
+  justify-content:center}
+.flexmyme > div {
+  margin: 10px;
+  width: 150px;
+  height: 50px;
+  background-color: #c3eeee;
+  background-image: url("../img/concept.jpeg");
+  background-size: cover;
+}
+.winwinwin{background-color: #eaa557;
+  display: flex;
+  justify-content:right;}
+.winwinwin > div {
+  margin: 10px;
+  width: 150px;
+  height: 50px;
+  background-color: #e7e8e8;
+  background-image: url("../img/concept.jpeg");
+  background-size: cover;
+}
+.wijk{background-color: #ea8a57;
+  display: flex;
+  justify-content:right;}
+.wijk > div {
+  margin: 10px;
+  width: 150px;
+  height: 50px;
+  background-color: #e7e8e8;
+  background-image: url("../img/concept.jpeg");
+  background-size: cover;
